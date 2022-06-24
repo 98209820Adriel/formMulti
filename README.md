@@ -1,3 +1,25 @@
+ <h1>Projeto de Formulario de cadastro multi etapa em React<h1/>
+ 
+ Projeto feito em react que realiza o cadastro de um programador para um sistema de vagas.
+ 
+ 
+ ![formu](https://user-images.githubusercontent.com/87943203/175468210-9f9da27f-bea8-4b0e-abd0-caae022e184e.PNG)
+
+
+
+![formu-2](https://user-images.githubusercontent.com/87943203/175468222-6064c8b7-30cf-46ba-828c-06e8759438c6.PNG)
+
+ 
+ 
+ ![formu-3](https://user-images.githubusercontent.com/87943203/175468228-682c4339-5507-43c2-b4e3-7ed3a7eab3d8.PNG)
+
+
+
+![formu-4](https://user-images.githubusercontent.com/87943203/175468238-a788988f-c54a-49cd-9212-f9f7746c8f64.PNG)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
